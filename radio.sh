@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mpc play
+
 while true; do
 
 printf "\nPress 1 to play, 2 to stop, or 3 to exit:\n"
